@@ -1,0 +1,12 @@
+C:\Users\USuario_\Desktop\Uni\seminario de lenguajes\punto_3\punto_3\punto_3\punto_3\bin\Debug\punto_3.exe.config
+C:\Users\USuario_\Desktop\Uni\seminario de lenguajes\punto_3\punto_3\punto_3\punto_3\bin\Debug\punto_3.exe
+C:\Users\USuario_\Desktop\Uni\seminario de lenguajes\punto_3\punto_3\punto_3\punto_3\bin\Debug\punto_3.pdb
+C:\Users\USuario_\Desktop\Uni\seminario de lenguajes\punto_3\punto_3\punto_3\punto_3\bin\Debug\punto_3.xml
+C:\Users\USuario_\Desktop\Uni\seminario de lenguajes\punto_3\punto_3\punto_3\punto_3\obj\Debug\punto_3.vbproj.AssemblyReference.cache
+C:\Users\USuario_\Desktop\Uni\seminario de lenguajes\punto_3\punto_3\punto_3\punto_3\obj\Debug\punto_3.Form1.resources
+C:\Users\USuario_\Desktop\Uni\seminario de lenguajes\punto_3\punto_3\punto_3\punto_3\obj\Debug\punto_3.Resources.resources
+C:\Users\USuario_\Desktop\Uni\seminario de lenguajes\punto_3\punto_3\punto_3\punto_3\obj\Debug\punto_3.vbproj.GenerateResource.cache
+C:\Users\USuario_\Desktop\Uni\seminario de lenguajes\punto_3\punto_3\punto_3\punto_3\obj\Debug\punto_3.vbproj.CoreCompileInputs.cache
+C:\Users\USuario_\Desktop\Uni\seminario de lenguajes\punto_3\punto_3\punto_3\punto_3\obj\Debug\punto_3.exe
+C:\Users\USuario_\Desktop\Uni\seminario de lenguajes\punto_3\punto_3\punto_3\punto_3\obj\Debug\punto_3.xml
+C:\Users\USuario_\Desktop\Uni\seminario de lenguajes\punto_3\punto_3\punto_3\punto_3\obj\Debug\punto_3.pdb
