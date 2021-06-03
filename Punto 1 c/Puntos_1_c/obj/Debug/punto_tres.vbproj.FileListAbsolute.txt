@@ -1,0 +1,17 @@
+C:\Users\USuario_\Desktop\Uni\seminario de lenguajes\punto_3\punto_tres\punto_tres\bin\Debug\punto_tres.exe.config
+C:\Users\USuario_\Desktop\Uni\seminario de lenguajes\punto_3\punto_tres\punto_tres\bin\Debug\punto_tres.exe
+C:\Users\USuario_\Desktop\Uni\seminario de lenguajes\punto_3\punto_tres\punto_tres\bin\Debug\punto_tres.pdb
+C:\Users\USuario_\Desktop\Uni\seminario de lenguajes\punto_3\punto_tres\punto_tres\bin\Debug\punto_tres.xml
+C:\Users\USuario_\Desktop\Uni\seminario de lenguajes\punto_3\punto_tres\punto_tres\obj\Debug\punto_tres.Form1.resources
+C:\Users\USuario_\Desktop\Uni\seminario de lenguajes\punto_3\punto_tres\punto_tres\obj\Debug\punto_tres.Form2.resources
+C:\Users\USuario_\Desktop\Uni\seminario de lenguajes\punto_3\punto_tres\punto_tres\obj\Debug\punto_tres.Form3.resources
+C:\Users\USuario_\Desktop\Uni\seminario de lenguajes\punto_3\punto_tres\punto_tres\obj\Debug\punto_tres.Form4.resources
+C:\Users\USuario_\Desktop\Uni\seminario de lenguajes\punto_3\punto_tres\punto_tres\obj\Debug\punto_tres.Form5.resources
+C:\Users\USuario_\Desktop\Uni\seminario de lenguajes\punto_3\punto_tres\punto_tres\obj\Debug\punto_tres.Form6.resources
+C:\Users\USuario_\Desktop\Uni\seminario de lenguajes\punto_3\punto_tres\punto_tres\obj\Debug\punto_tres.Form7.resources
+C:\Users\USuario_\Desktop\Uni\seminario de lenguajes\punto_3\punto_tres\punto_tres\obj\Debug\punto_tres.Resources.resources
+C:\Users\USuario_\Desktop\Uni\seminario de lenguajes\punto_3\punto_tres\punto_tres\obj\Debug\punto_tres.vbproj.GenerateResource.cache
+C:\Users\USuario_\Desktop\Uni\seminario de lenguajes\punto_3\punto_tres\punto_tres\obj\Debug\punto_tres.vbproj.CoreCompileInputs.cache
+C:\Users\USuario_\Desktop\Uni\seminario de lenguajes\punto_3\punto_tres\punto_tres\obj\Debug\punto_tres.exe
+C:\Users\USuario_\Desktop\Uni\seminario de lenguajes\punto_3\punto_tres\punto_tres\obj\Debug\punto_tres.xml
+C:\Users\USuario_\Desktop\Uni\seminario de lenguajes\punto_3\punto_tres\punto_tres\obj\Debug\punto_tres.pdb
