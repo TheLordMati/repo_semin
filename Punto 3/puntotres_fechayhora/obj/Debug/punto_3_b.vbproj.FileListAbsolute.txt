@@ -1,0 +1,12 @@
+C:\Users\USuario_\Desktop\Punto 3\punto_3_b\bin\Debug\punto_3_b.exe.config
+C:\Users\USuario_\Desktop\Punto 3\punto_3_b\bin\Debug\punto_3_b.exe
+C:\Users\USuario_\Desktop\Punto 3\punto_3_b\bin\Debug\punto_3_b.pdb
+C:\Users\USuario_\Desktop\Punto 3\punto_3_b\bin\Debug\punto_3_b.xml
+C:\Users\USuario_\Desktop\Punto 3\punto_3_b\obj\Debug\punto_3_b.vbproj.AssemblyReference.cache
+C:\Users\USuario_\Desktop\Punto 3\punto_3_b\obj\Debug\punto_3_b.Form1.resources
+C:\Users\USuario_\Desktop\Punto 3\punto_3_b\obj\Debug\punto_3_b.Resources.resources
+C:\Users\USuario_\Desktop\Punto 3\punto_3_b\obj\Debug\punto_3_b.vbproj.GenerateResource.cache
+C:\Users\USuario_\Desktop\Punto 3\punto_3_b\obj\Debug\punto_3_b.vbproj.CoreCompileInputs.cache
+C:\Users\USuario_\Desktop\Punto 3\punto_3_b\obj\Debug\punto_3_b.exe
+C:\Users\USuario_\Desktop\Punto 3\punto_3_b\obj\Debug\punto_3_b.xml
+C:\Users\USuario_\Desktop\Punto 3\punto_3_b\obj\Debug\punto_3_b.pdb
