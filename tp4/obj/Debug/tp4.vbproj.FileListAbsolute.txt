@@ -1,0 +1,15 @@
+C:\Users\USuario_\source\repos\tp4\bin\Debug\tp4.exe.config
+C:\Users\USuario_\source\repos\tp4\bin\Debug\tp4.exe
+C:\Users\USuario_\source\repos\tp4\bin\Debug\tp4.pdb
+C:\Users\USuario_\source\repos\tp4\bin\Debug\tp4.xml
+C:\Users\USuario_\source\repos\tp4\obj\Debug\tp4.vbproj.AssemblyReference.cache
+C:\Users\USuario_\source\repos\tp4\obj\Debug\tp4.Form1.resources
+C:\Users\USuario_\source\repos\tp4\obj\Debug\tp4.Resources.resources
+C:\Users\USuario_\source\repos\tp4\obj\Debug\tp4.vbproj.GenerateResource.cache
+C:\Users\USuario_\source\repos\tp4\obj\Debug\tp4.vbproj.CoreCompileInputs.cache
+C:\Users\USuario_\source\repos\tp4\obj\Debug\tp4.exe
+C:\Users\USuario_\source\repos\tp4\obj\Debug\tp4.xml
+C:\Users\USuario_\source\repos\tp4\obj\Debug\tp4.pdb
+C:\Users\USuario_\source\repos\tp4\obj\Debug\tp4.Form2.resources
+C:\Users\USuario_\source\repos\tp4\obj\Debug\tp4.Form3.resources
+C:\Users\USuario_\source\repos\tp4\obj\Debug\tp4.Form4.resources
