@@ -1,5 +1,5 @@
 # repo_semin
-En la carpeta Trabajo_N4 se encuentra el punto 1 2 3 y 4 del Trabajo Práctico N4 de Seminario de Lenguajes 1
+En la carpeta tp4 se encuentra el punto 1 2 3 y 4 del Trabajo Práctico N4 de Seminario de Lenguajes 1
 -----------------------------------------------------------------------------------------------------
 Contiene 4 Forms:
 
